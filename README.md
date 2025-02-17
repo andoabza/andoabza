@@ -5,19 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andoabza" alt="andoabza" /></a> </p>
 
-- 🔭 I’m currently working on [Ethio-Travel](https://github.com/andoabza/ethiotravel)
+- 🔭 I’m currently working as Freelancer
 
-- 👨‍💻 All of my projects are available at [https://andoabza.vercel.app](https://andoabza.vercel.app)
+- 👨‍💻 All of my projects are available at [https://anda.42web.io]([https://anda.42web.io])
 
 - 📫 How to reach me **andaabi3@gmail.com**
 
-- ⚡ Fun fact **i'm programmer.**
+- ⚡ Fun fact **:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/andoabza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andoabza" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andoabza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andoabza" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/andaacademy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="andaacademy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
