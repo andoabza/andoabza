@@ -2,8 +2,13 @@
 <h3 align="center">💻 Full-Stack Developer | Dreamer | Builder from Ethiopia 🇪🇹</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=I+build+full-stack+apps.;I+design+3D+animated+backgrounds.;I+bring+ideas+to+life+with+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=I+build+full-stack+apps.;I+design+Ui;I+bring+ideas+to+life+with+code." alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<p align="center"><em>Keep building. Keep learning. Keep shipping 🚀</em></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andoabza&label=Profile%20Views&color=0e75b6&style=flat" alt="andoabza" />
@@ -75,11 +80,3 @@
 </p>
 
 ---
-
-### 🔥 Just for Fun
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
-<p align="center"><em>Keep building. Keep learning. Keep shipping 🚀</em></p>
