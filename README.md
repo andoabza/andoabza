@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as Freelancer
 
-- 👨‍💻 All of my projects are available at [https://anda.42web.io](https://anda.42web.io)
+- 👨‍💻 All of my projects are available at [https://anda.42web.io](https://anda.pro.et)
 
 - 📫 How to reach me **andaabi3@gmail.com**
 
