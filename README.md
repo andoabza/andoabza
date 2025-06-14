@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anda.pro.et" target="_blank">
+  <a href="https://anda.onetwodot.xyz" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-anda.pro.et-blueviolet" />
   </a>
   <a href="mailto:andaabi3@gmail.com">
