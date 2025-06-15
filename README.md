@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Andamlak Abza</h1>
-<h3 align="center">💻 Full-Stack Developer | Dreamer | Builder from Ethiopia 🇪🇹</h3>
+<h3 align="center">💻 Full-Stack Developer | Dreamer | Builder from Ethiopia</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=I+build+full-stack+apps.;I+design+Ui;I+bring+ideas+to+life+with+code." alt="Typing SVG" />
